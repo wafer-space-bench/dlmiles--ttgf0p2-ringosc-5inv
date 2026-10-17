@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/dlmiles/ttgf0p2-ringosc-5inv
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p2
+  slot: tt_um_dlmiles_ringosc_5inv
+  project: Ring Oscillator (5 inverter)
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 5d157f5e7ba96be6214a32d0ee3d3d4f0a51f17b
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p2/tt_um_dlmiles_ringosc_5inv
+  branch: tapeout/tinytapeout/ttgf0p2/tt_um_dlmiles_ringosc_5inv
+  page: https://app.tinytapeout.com/shuttles/ttgf0p2
+generated: '2026-10-17T23:28:46Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p2/tt_um_dlmiles_ringosc_5inv
+- upstream/main
